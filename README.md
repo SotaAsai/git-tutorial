@@ -3,3 +3,4 @@
 #fatalは解除されたが・・・、
 
  - feature-A
+ - fix-Y
